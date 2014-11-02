@@ -6,7 +6,7 @@ paginate: 10
 paginate_path: "page:num"
 permalink: pretty
 
-title: Blog
+title: Cloud Notes - 云计算思考
 url: http://liangxiaoping.github.io
 feed: /atom.xml
 author_info: <a href="http://liangxiaoping.github.io/">Xiaoping Liang</a>
