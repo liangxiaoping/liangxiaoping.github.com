@@ -1,9 +1,0 @@
----
-layout: post
-title: 关于我
-category: about
-description: about
----
-
-联系方式：  
-Email: shapeliang@gmail.com
