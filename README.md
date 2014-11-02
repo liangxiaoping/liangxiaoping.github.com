@@ -1,1 +1,2 @@
-本博客基于http://beiyuu.com/github-pages/，感谢作者！
+本博客基于 http://beiyuu.com/github-pages/
+感谢作者！
