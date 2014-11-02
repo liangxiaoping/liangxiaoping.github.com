@@ -2,10 +2,11 @@ auto: true
 
 markdown: rdiscount
 pygments: true
-paginate: 8
-permalink: /:title
+paginate: 10
+paginate_path: "page:num"
+permalink: pretty
 
-title: BeiYuu.com
-url: http://beiyuu.com
+title: Xiaoping's Blog
+url: http://liangxiaoping.github.io
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
+author_info: <a href="http://liangxiaoping.github.io/">Xiaoping Liang</a>
