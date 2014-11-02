@@ -7,9 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>目录</span></a></li>
         </ul>
-
         <div class="cate-bar"><span id="cateBar"></span></div>
-
         <ul class="artical-list">
         {% for post in site.categories.blog %}
             <li>
