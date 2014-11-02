@@ -85,7 +85,8 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 }
 
 .blog .aside{
-    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg);
+    #background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg);
+    background-image:url(/images/road.jpeg);
 }
 
 .index-content .section { margin-left:15%; padding-top:60px; padding-right:15%; ;}
