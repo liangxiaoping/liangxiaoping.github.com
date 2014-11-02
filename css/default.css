@@ -79,9 +79,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     height: 100%;
     max-width: 500px;
     background:#46C2C1;
-    box-shadow:inset -1px 0 0 rgba(70,194,193,0.3);
+    box-shadow:inset -1px 0 0 rgba(0,0,0,0.3);
     background-size:cover;
     background-position:50% 50%;
+}
+
+.blog .aside{
+    background-image:url(https://github.com/liangxiaoping/liangxiaoping.github.com/blob/master/images/road.jpeg);
 }
 
 .index-content .section { margin-left:15%; padding-top:80px; padding-right:15%; ;}
@@ -156,6 +160,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .section ul { width:85%; }
     .index-content .cate-bar { width:85%; }
     .index-content .artical-cate { margin-top:50px; }
+    
+    blog .aside
 
 }
 
